@@ -1,5 +1,5 @@
 import Hero from './Hero'
-import PopularProduct from './PopularProduct'
+import PopularProducts from './PopularProduct'
 import Footer from './Footer'
 import Services from './Services'
 import SpecialOffer from './SpecialOffer'
@@ -9,7 +9,7 @@ import CustomerReview from './CustomerReview'
 
 export {
 	Hero,
-	PopularProduct,
+	PopularProducts,
 	Footer,
 	Services,
 	SpecialOffer,
